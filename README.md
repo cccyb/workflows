@@ -9,6 +9,7 @@ any-rule是一个快速查询正则表达式的workflow，数据源参考来自[
 **核心命令：**
 
 - zz {query}：根据关键字搜索正则表达式标题
+- zz {query}：高亮选中对应正则表达式，按`Cmd + Enter`跳转至对应正则图解页面（[https://regexper.com](https://regexper.com)）
 - zzweb：跳转至Web在线版any-rule
 - zzupdate：更新最新正则表达式数据到本地，下载需要几秒钟，请等待几秒后再重新查询
 
