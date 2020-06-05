@@ -1,6 +1,6 @@
 ## 本仓库存放一些平时生活工作中自己写的Alfred Workflows
 
-### Any-rule v1.0.0
+### Any-rule v1.0.1
 
 any-rule是一个快速查询正则表达式的workflow，数据源参考来自[any86/any-rule](https://github.com/any86/any-rule)，原作者初始版本是`vscode`的插件版，目前已拓展出web在线版，以及IDEA插件版。
 
